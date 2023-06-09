@@ -1,0 +1,35 @@
+<svg width="820" height="1110" viewBox="0 0 820 1110" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="221.643" y="62.2424" width="185.117" height="185.117" rx="45.0536" transform="rotate(15 221.643 62.2424)" fill="url(#paint0_angular_3_1977)"/>
+<rect x="221.643" y="62.2424" width="185.117" height="185.117" rx="45.0536" transform="rotate(15 221.643 62.2424)" stroke="url(#paint1_diamond_3_1977)"/>
+<rect x="106.268" y="494.76" width="184.117" height="184.117" rx="44.5536" transform="rotate(15 106.268 494.76)" fill="url(#paint2_angular_3_1977)"/>
+<rect x="164.132" y="278.807" width="184.117" height="184.117" rx="44.5536" transform="rotate(15 164.132 278.807)" fill="#07080A"/>
+<rect x="48.4035" y="710.712" width="184.117" height="184.117" rx="44.5536" transform="rotate(15 48.4035 710.712)" fill="#07080A"/>
+<rect x="495.813" y="-95.2333" width="184.117" height="184.117" rx="44.5536" transform="rotate(15 495.813 -95.2333)" fill="#040505"/>
+<rect x="437.949" y="120.719" width="184.117" height="184.117" rx="44.5536" transform="rotate(15 437.949 120.719)" fill="#07080A"/>
+<rect x="322.22" y="552.624" width="184.117" height="184.117" rx="44.5536" transform="rotate(15 322.22 552.624)" fill="#07080A"/>
+<rect x="380.084" y="336.671" width="184.117" height="184.117" rx="44.5536" transform="rotate(15 380.084 336.671)" fill="#040505"/>
+<rect x="264.356" y="768.576" width="184.117" height="184.117" rx="44.5536" transform="rotate(15 264.356 768.576)" fill="#040505"/>
+<rect x="711.765" y="-37.369" width="184.117" height="184.117" rx="44.5536" transform="rotate(15 711.765 -37.369)" fill="#07080A"/>
+<rect x="653.901" y="178.583" width="184.117" height="184.117" rx="44.5536" transform="rotate(15 653.901 178.583)" fill="#040505"/>
+<rect x="538.172" y="610.488" width="184.117" height="184.117" rx="44.5536" transform="rotate(15 538.172 610.488)" fill="#040505"/>
+<rect x="596.037" y="394.536" width="184.117" height="184.117" rx="44.5536" transform="rotate(15 596.037 394.536)" fill="#07080A"/>
+<rect x="480.308" y="826.44" width="184.117" height="184.117" rx="44.5536" transform="rotate(15 480.308 826.44)" fill="#07080A"/>
+<rect x="754.125" y="668.352" width="184.117" height="184.117" rx="44.5536" transform="rotate(15 754.125 668.352)" fill="#07080A"/>
+<rect x="811.989" y="452.4" width="184.117" height="184.117" rx="44.5536" transform="rotate(15 811.989 452.4)" fill="#07080A"/>
+<rect x="696.26" y="884.304" width="184.117" height="184.117" rx="44.5536" transform="rotate(15 696.26 884.304)" fill="#07080A"/>
+<rect x="279.86" y="-153.097" width="184.117" height="184.117" rx="44.5536" transform="rotate(15 279.86 -153.097)" fill="#07080A"/>
+<defs>
+<radialGradient id="paint0_angular_3_1977" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(314.055 154.913) rotate(90) scale(92.0583)">
+<stop stop-color="#1A1E22"/>
+<stop offset="1" stop-color="#1A1E22" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_diamond_3_1977" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(314.055 154.913) rotate(90) scale(92.0583)">
+<stop stop-color="#5E4A18"/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint2_angular_3_1977" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(198.326 586.818) rotate(90) scale(92.0583)">
+<stop stop-color="#1A1E22"/>
+<stop offset="1" stop-color="#1A1E22" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
